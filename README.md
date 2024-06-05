@@ -10,4 +10,5 @@ To Run:-
 
 1. `git clone https://github.com/OmkarTerbhai/sealed-classes-demo.git`
 2. `cd SealedClasses`
-3. `java Main.java`
+3. `cd src`
+4. `java Main.java`

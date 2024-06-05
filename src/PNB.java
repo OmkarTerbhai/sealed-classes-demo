@@ -1,6 +1,6 @@
-public final class PNB implements NationalBank {
+public final class PNB extends NationalBank {
     @Override
     public float getCurrentInterest() {
-        return 8.65F;
+        return RBI_REPO_RATE + 0.25F;
     }
 }
